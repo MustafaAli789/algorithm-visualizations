@@ -1,0 +1,9 @@
+[submodule "Connect4"]
+	path = Connect4
+	url = https://github.com/MustafaAli789/Connect4
+[submodule "pathfinding-sim"]
+	path = pathfinding-sim
+	url = https://github.com/MustafaAli789/pathfinding-sim
+[submodule "sudoku-solver"]
+	path = sudoku-solver
+	url = https://github.com/MustafaAli789/sudoku-solver
